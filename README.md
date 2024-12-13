@@ -2,13 +2,15 @@
 
 This project is designed to help you practice and understand key concepts in TypeScript 
 including basic types, interfaces, classes, functions, working with the DOM, generic types,
-namespaces, merging declarations, using ambient namespaces to import external libraries, and basic nominal typing.
+namespaces, merging declarations, using ambient namespaces to import external libraries, 
+and basic nominal typing.
 
 ## Getting Started
 
 ### Prerequisites
 
-Ensure you have Node.js and npm installed on your system. You will also need to set up Webpack for bundling your TypeScript code.
+Ensure you have Node.js and npm installed on your system. You will also need to set up Webpack,
+for bundling your TypeScript code.
 
 ### Installation
 
